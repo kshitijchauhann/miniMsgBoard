@@ -1,5 +1,5 @@
-Odin Project
+# Odin Project
 
-Mini Message Board
+## Mini Message Board
 
-Learnt about Views, Controllers, Routes and MVC
+**Learnt about Views, Controllers, Routes and MVC.**
